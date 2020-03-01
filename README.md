@@ -18,15 +18,14 @@ Credit: Inspired and helped by Polycode (https://www.youtube.com/watch?v=kft1AJ9
 In order to verify the success rate of the perceptron, multiple variables were chosen and the accuracy compared. 
 
 Example:
-    training digits: 16 '3' digits and 16 'non-3' digits
-    training cycles: tested at 2,000 , 20,000 , and 200,000 cycles 
-    testing digits: 5 '3' digits and 5 'non-3' digits. Classification accuracy measured as percent accurate classifications. 
+training digits: 16 '3' digits and 16 'non-3' digits
+training cycles: tested at 2,000 , 20,000 , and 200,000 cycles 
+testing digits: 5 '3' digits and 5 'non-3' digits. Classification accuracy measured as percent accurate classifications. 
 
 Accuracy Results:
-    2 cycles:       50% 
-    20 cycles:      50%
-    200 cycles:     60%
-    2000 cycles:    50%
-    20000 cycles:   60%
-    200K cycles:    60%
-    
+2 cycles:       50% 
+20 cycles:      50%
+200 cycles:     60%
+2000 cycles:    50%
+20000 cycles:   60%
+200K cycles:    60%
